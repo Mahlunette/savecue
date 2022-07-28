@@ -5,4 +5,4 @@ The user can choose from the list of cue cards: Coffee break, rainy day, big spe
 The target users are young people (16+) and differentiator is mixing fun and saving.
 
 The challenge was mainly managing time: the app was created in two weeks and there were many features and functionalities that we intended to add but had to tick them off the list.
-You can watch me presenting the project here: https://www.youtube.com/watch?v=Xa3e58jxyb8&t=1003s
+You can watch me presenting the project here: https://youtu.be/Xa3e58jxyb8?t=636
